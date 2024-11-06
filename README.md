@@ -1,2 +1,2 @@
-# PerfectPiano
+# PerfectNotes
 Приложение для анализа игры на фортепиано
